@@ -1,0 +1,4 @@
+Version python3 
+thrift==11
+vorked /prankbots
+creator acil
