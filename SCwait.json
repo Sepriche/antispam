@@ -1,0 +1,8 @@
+{
+    "autoReject": false,
+    "autoBlock": false,
+    "keyCmd": "",
+    "selfbot": true,
+    "autoJoin": true,
+    "autoLeave": false
+}
