@@ -266,7 +266,7 @@ def bot(op):
                           if SCwait["selfbot"] == True:
     #                        if msg._from in Owner:
                                 sepri.sendMessage(msg.to,"n...cret hahaha")                        
-                        elif cmd == "setatus":
+                        elif cmd == "status":
                           if SCwait["selfbot"] == True:
                             if msg._from in Owner:
                                 md = " ==[STATUS BOT]==\n"
